@@ -1,4 +1,3 @@
-/* 
  * In embedded systems, the C programming language is most often the language of choice. For more intensive
  * elements in the system, assembly can be used. Embedded C is distinct from typical C programming in its
  * requirements for efficiency, its limited resources, and its unique hardware problems which are much less common in
